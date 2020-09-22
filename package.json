@@ -1,0 +1,34 @@
+{
+    "name": "exruxt",
+    "version" : "1.0.1",
+    "description": "Automatic route generator for Express",
+    "bugs": {
+      "url": "https://github.com/wasmake/exruxt/issues"
+    },
+    "bundleDependencies": false,
+    "deprecated": false,
+    "homepage": "https://github.com/wasmake/exruxt#readme",
+    "keywords": [
+      "automatic",
+      "route",
+      "generator",
+      "express",
+      "router",
+      "middleware",
+      "arouter",
+      "nuxt",
+      "vue",
+      "generate"
+    ],
+    "license": "ISC",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/wasmake/exruxt.git"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Andrew R."
+  }
+  
